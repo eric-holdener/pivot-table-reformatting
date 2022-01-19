@@ -1,0 +1,9 @@
+{
+  "name": "pivot-table-reformatting",
+  "version": "0.0.0",
+  "description": "Pivot Table Reformatting",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
